@@ -17,6 +17,7 @@
 		6AC8652F298AD4F3000288BB /* video_playerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AC8652E298AD4F3000288BB /* video_playerUITests.swift */; };
 		6AC86531298AD4F3000288BB /* video_playerUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AC86530298AD4F3000288BB /* video_playerUITestsLaunchTests.swift */; };
 		6AC8653E298AD640000288BB /* main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6AC8653D298AD640000288BB /* main.storyboard */; };
+		6AC86542298AD8EB000288BB /* sample.m4v in Resources */ = {isa = PBXBuildFile; fileRef = 6AC86541298AD8EB000288BB /* sample.m4v */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		6AC8652E298AD4F3000288BB /* video_playerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = video_playerUITests.swift; sourceTree = "<group>"; };
 		6AC86530298AD4F3000288BB /* video_playerUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = video_playerUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		6AC8653D298AD640000288BB /* main.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = main.storyboard; sourceTree = "<group>"; };
+		6AC86541298AD8EB000288BB /* sample.m4v */ = {isa = PBXFileReference; lastKnownFileType = file; path = sample.m4v; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				6AC8650F298AD4F1000288BB /* SceneDelegate.swift */,
 				6AC86511298AD4F1000288BB /* ViewController.swift */,
 				6AC86513298AD4F1000288BB /* Main.storyboard */,
+				6AC86541298AD8EB000288BB /* sample.m4v */,
 				6AC86516298AD4F3000288BB /* Assets.xcassets */,
 				6AC86518298AD4F3000288BB /* LaunchScreen.storyboard */,
 				6AC8651B298AD4F3000288BB /* Info.plist */,
@@ -235,6 +238,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6AC8651A298AD4F3000288BB /* LaunchScreen.storyboard in Resources */,
+				6AC86542298AD8EB000288BB /* sample.m4v in Resources */,
 				6AC86517298AD4F3000288BB /* Assets.xcassets in Resources */,
 				6AC86515298AD4F1000288BB /* Main.storyboard in Resources */,
 				6AC8653E298AD640000288BB /* main.storyboard in Resources */,
